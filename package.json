@@ -6,6 +6,11 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "latest",
+    "primevue": "3.9.1"
+  },
+  "dependencies": {
+    "primeflex": "^2.0.0",
+    "primeicons": "lastest"
   }
 }

@@ -1,6 +1,7 @@
 <template>
     <div>
         <h1>HoME</h1>
+        <Button label="PrimeVue"></Button>
         {{ data }}
     </div>
 </template>
